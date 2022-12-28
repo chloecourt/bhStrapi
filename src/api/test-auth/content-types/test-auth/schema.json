@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "test_auths",
+  "info": {
+    "singularName": "test-auth",
+    "pluralName": "test-auths",
+    "displayName": "TestAuth"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "UserSecret": {
+      "type": "string"
+    }
+  }
+}
