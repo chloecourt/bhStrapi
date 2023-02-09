@@ -9,7 +9,9 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "strapi-plugin-shopify": "^0.2.1"
+  },
   "dependencies": {
     "@bn-digital/strapi-plugin-field-uuid": "^1.1.7",
     "@strapi/plugin-i18n": "4.5.3",
